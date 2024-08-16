@@ -1,0 +1,27 @@
+{
+  "name": "asynccourse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codificando12/AsyncCourse.git"
+  },
+  "keywords": [
+    "javascript",
+    "async",
+    "promises"
+  ],
+  "author": "Emilio Ciappi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codificando12/AsyncCourse/issues"
+  },
+  "homepage": "https://github.com/codificando12/AsyncCourse#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
