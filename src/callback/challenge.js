@@ -13,9 +13,9 @@ function fetchData (urlApi, callback) {
                 const error = new Error('Error' + urlApi);
                 return callback(error, null);
             }
-        } 
-        xhttp.send();
+        }   
     }
+    xhttp.send();
 }
 
 fetchData(`${API}/products`, function (error1, data1) {
